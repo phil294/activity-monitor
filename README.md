@@ -5,7 +5,7 @@ Compatible with both [Windows AutoHotkey](https://autohotkey.com/) and [AHK_X11 
 Script to
 - monitor all key strokes
 - intercept and save clipboard contents
-- regularly extract and save the title and full text contents of all opened windows, such as file managers or browser tabs
+- regularly extract and save the title and full text contents of all opened windows, such as file managers or browser tabs, and list of running processes
 
 From the [LICENSE](./LICENSE):
 
