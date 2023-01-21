@@ -1,6 +1,6 @@
 ; Tested on and developed for Linux with AHK_X11. Probably compatible with Windows too.
 
-; To use, #Include this script an call `GoSub, run_activity_monitor` (this does never finish)
+; To use, set var activity_monitor_logfile, #Include this script and call `GoSub, run_activity_monitor` (this does never finish)
 
 Return
 
